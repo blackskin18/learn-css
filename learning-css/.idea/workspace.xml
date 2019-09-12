@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54a680fc-266f-4cc3-98a5-421644e509dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/final-after-S06/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-css-course/Natours/final-after-S06/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/hero-small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/hero.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/logo-green-1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/logo-green-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/logo-green-small-1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/logo-green-small-2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/logo-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-1-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-2-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-3-large.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/nat-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/video.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/img/video.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-css-course/Natours/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-css-course/Natours/starter/index.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/advanced-css-course" />
+  </component>
+  <component name="ProjectId" id="1P3SJdHFtAwJAv2g1d1v0flaJHU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\web-study\front-end\learning-css" />
+      <recent name="D:\web-study\front-end\learning-css\advanced-css-course" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54a680fc-266f-4cc3-98a5-421644e509dd" name="Default Changelist" comment="" />
+      <created>1565101216324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565101216324</updated>
+      <workItem from="1565101220340" duration="820000" />
+      <workItem from="1565102068657" duration="4872000" />
+      <workItem from="1565188992010" duration="2515000" />
+      <workItem from="1565276321610" duration="4142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
